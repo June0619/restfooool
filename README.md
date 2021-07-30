@@ -14,3 +14,4 @@
     - POST
     - MEMBER
   - It will return only JSON
+  - Practice atomic commit
